@@ -1,0 +1,9 @@
+*.pyc
+__pycache__/
+db.sqlite3
+.DS_Store
+*.log
+venv/
+.env
+FraudApp/static/test.csv
+FraudApp/static/PS_*.csv
